@@ -1,0 +1,41 @@
+body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #eee;
+    
+  }
+  
+  .container {
+      padding-top: 0px;
+      padding-right: 15px;
+      padding-bottom: 0px;
+      padding-left: 15px;
+      background: #fff !important;	
+      max-width: 900px !important;
+      border-radius: 5px;
+  }
+  
+  .alignegauche{
+      text-align: left;
+  }
+  
+  .alignedroite{
+      text-align: right;
+  }
+  
+  .bordgris{
+      border: 1px solid #cdcdcd;
+  }
+  
+  .bordrondhaut {
+      border-radius: 5px 5px 0px 0px;
+  }
+  
+  .bordrondbas {
+      border-radius: 0px 0px 5px 5px;
+  }
+
+  .header-background
+  {
+      background-color:#3e3e3e;
+  }
